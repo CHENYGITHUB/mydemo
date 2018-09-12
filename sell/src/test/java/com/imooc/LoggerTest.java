@@ -14,6 +14,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 @Slf4j
 //@Data
+//@Data
+
 public class LoggerTest {
 
     @Test
